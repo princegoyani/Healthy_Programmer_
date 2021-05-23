@@ -1,3 +1,4 @@
 it requires: 
 1 Python terminal
 2 "pygame" module
+3 Just double-click "Healthcare.py"
